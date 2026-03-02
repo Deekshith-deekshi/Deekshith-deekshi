@@ -1,4 +1,12 @@
 # Hi, I'm Deekshith 👋
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-lightblue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black)
+![Linux](https://img.shields.io/badge/Linux-OS-green)
+![Python](https://img.shields.io/badge/Python-Basic-yellow)
 
 ## 🧑‍💻 About Me
 Cloud & DevOps Engineer with 3+ years of hands‑on experience in building and managing cloud‑native applications on AWS. Skilled in CI/CD automation, containerization, and Infrastructure as Code. Passionate about solving production challenges, monitoring systems, and continuously learning through projects and technical blogging.
